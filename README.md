@@ -4,13 +4,13 @@ Currently finishing MSc at KTH Royal Institute of Technology.
 
 Experienced with:
 - AI SaaS systems
-- backend/platform engineering
-- cloud infrastructure
+- Backend/platform engineering
+- Cloud infrastructure
 - ML pipelines
-- fullstack web apps
+- Fullstack web apps
 
 Tech:
-Python • TypeScript • Node.js • AWS • SQL • Vue • Linux • ML/MLOps
+Python • TypeScript • Node.js • AWS • SQL • Vue • Linux • ML/MLOps • Rust
 
 Open to:
 - Remote startup roles
