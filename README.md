@@ -10,7 +10,7 @@ Experienced with:
 - Fullstack web apps
 
 Tech:
-Python • TypeScript • Node.js • AWS • SQL • Vue • Linux • ML/MLOps • Rust
+Python • TypeScript • Node.js • AWS • SQL • Vue • Linux • ML/MLOps • Rust • Proxmox
 
 Open to:
 - Remote startup roles
