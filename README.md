@@ -1,16 +1,18 @@
-## Hi there 👋
+Fullstack & AI Engineer based in Stockholm.
 
-<!--
-**vidarrio/vidarrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently finishing MSc at KTH Royal Institute of Technology.
 
-Here are some ideas to get you started:
+Experienced with:
+- AI SaaS systems
+- backend/platform engineering
+- cloud infrastructure
+- ML pipelines
+- fullstack web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech:
+Python • TypeScript • Node.js • AWS • SQL • Vue • Linux • ML/MLOps
+
+Open to:
+- Remote startup roles
+- Contract work
+- AI/fullstack engineering
